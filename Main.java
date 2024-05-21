@@ -9,6 +9,7 @@ public class Main {
         do {
             System.out.println("\nOperasi SCRUD");
             System.out.println("1. Buat Item");
+            System.out.println("2. Scan Item");
             System.out.println("3. Perbarui Item");
             System.out.println("4. Hapus Item");
             System.out.println("5. Cari Item berdasarkan ID");
